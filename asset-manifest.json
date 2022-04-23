@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meal_app-vgt/static/css/main.0e1c3a4c.css",
+    "main.js": "/meal_app-vgt/static/js/main.4ae11dfd.js",
+    "index.html": "/meal_app-vgt/index.html",
+    "main.0e1c3a4c.css.map": "/meal_app-vgt/static/css/main.0e1c3a4c.css.map",
+    "main.4ae11dfd.js.map": "/meal_app-vgt/static/js/main.4ae11dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e1c3a4c.css",
+    "static/js/main.4ae11dfd.js"
+  ]
+}
